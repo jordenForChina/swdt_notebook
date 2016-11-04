@@ -1,11 +1,10 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1478099017545" ID="ID_209293826" MODIFIED="1478101236899" TEXT="FreeMind &#x7684;&#x5e38;&#x7528;&#x6309;&#x952e;">
+<node COLOR="#000000" CREATED="1478099017545" ID="ID_209293826" MODIFIED="1478142070790" TEXT="FreeMind &#x7684;&#x5e38;&#x7528;&#x6309;&#x952e;">
 <edge COLOR="#0000cc"/>
-<font NAME="SansSerif" SIZE="20"/>
-<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
-<node COLOR="#0033ff" CREATED="1478099276062" FOLDED="true" HGAP="98" ID="ID_1464600520" MODIFIED="1478101124127" POSITION="right" TEXT="&#x4f7f;&#x7528;&#x9891;&#x7387;&#x6700;&#x9ad8;" VSHIFT="-64">
+<node COLOR="#0033ff" CREATED="1478099276062" HGAP="98" ID="ID_1464600520" MODIFIED="1478142017137" POSITION="right" TEXT="&#x4f7f;&#x7528;&#x9891;&#x7387;&#x6700;&#x9ad8;" VSHIFT="-64">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="full-1"/>
@@ -22,8 +21,7 @@
       &#38190;&#30424;&#26159;ins
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
@@ -61,8 +59,7 @@
       8&#160;&#160;&#160;&#32534;&#36753;&#38271;&#33410;&#28857;&#160;&#160;alt+enter
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 </node>
@@ -70,8 +67,13 @@
 <edge COLOR="#000000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
+<node COLOR="#00b439" CREATED="1478142024184" HGAP="148" ID="ID_130717612" MODIFIED="1478142063598" TEXT="10 &#x5173;&#x95ed; ctrl+W" VSHIFT="31">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#0033ff" CREATED="1478099883949" HGAP="81" ID="ID_1934390034" MODIFIED="1478101144217" POSITION="right" TEXT="&#x4f7f;&#x7528;&#x9891;&#x7387;&#x4e00;&#x822c;" VSHIFT="1">
+<node CREATED="1478184987836" HGAP="148" ID="ID_726633427" MODIFIED="1478185014199" TEXT="11. &#x63d2;&#x5165;&#x81ea;&#x5df1;&#x7684;&#x7236;&#x8282;&#x70b9;  shift+ins" VSHIFT="28"/>
+</node>
+<node COLOR="#0033ff" CREATED="1478099883949" HGAP="81" ID="ID_1934390034" MODIFIED="1478167522939" POSITION="right" TEXT="&#x4f7f;&#x7528;&#x9891;&#x7387;&#x4e00;&#x822c;" VSHIFT="1">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="full-2"/>
@@ -106,8 +108,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3&#22312;&#26681;&#33410;&#28857;&#35299;&#23494;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
@@ -128,7 +129,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1478101271777" ID="ID_229479919" MODIFIED="1478101284733" POSITION="right" TEXT="&#x5f88;&#x5c11;&#x4f7f;&#x7528;">
+<node COLOR="#0033ff" CREATED="1478101271777" HGAP="87" ID="ID_229479919" MODIFIED="1478167529823" POSITION="right" TEXT="&#x5f88;&#x5c11;&#x4f7f;&#x7528;" VSHIFT="37">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="full-3"/>
